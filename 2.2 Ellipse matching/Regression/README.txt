@@ -1,1 +1,5 @@
-Our two main regression algorithm are 'eyes_regression.py' and 'eyes_angle_regression.py'
+The two main regression tasks:
+
+- Regression on ellipse parameters
+
+- Regression on bounding boxes (done with YOLO)
