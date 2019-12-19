@@ -1,0 +1,1 @@
+Images of the boosting methods classification part
